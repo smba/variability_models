@@ -1,3 +1,5 @@
+# Original:
+Sunderman et al.: _Evaluating state-of-the-art #SAT solvers on industrial configuration spaces_, EMSE 2023
 # Systems
 
 In the following, we present a list of sources we used for the evaluated systems.  Note that `Automotive03-05` cannot be published. Each directory contains feature model(s) corresponding to the subject system. KConfig and CDL feature models are grouped for better readability.
